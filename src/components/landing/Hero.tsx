@@ -10,7 +10,7 @@ const Hero = () => {
         <div className="flex flex-col-reverse md:flex-row items-center">
           <div className="md:w-1/2 space-y-6 pt-8 md:pt-0 md:pr-12">
             <h1 className="text-4xl md:text-5xl font-bold text-prosthetic-900 leading-tight">
-              Custom Prosthetic Solutions for Everyone
+              Custom Prosthetic Solutions for Everyone, on the fly!
             </h1>
             <p className="text-lg text-prosthetic-700">
               Our AI-powered platform generates tailored prosthetic prototypes based on your unique needs, constraints, and challenges.
@@ -50,7 +50,7 @@ const Hero = () => {
               <div className="absolute -top-6 -left-6 w-32 h-32 bg-prosthetic-200 rounded-full filter blur-2xl opacity-60"></div>
               <div className="absolute -bottom-8 -right-8 w-48 h-48 bg-prosthetic-300 rounded-full filter blur-3xl opacity-30"></div>
               <img
-                src="https://images.unsplash.com/photo-1592323360850-e317605f0526?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+                src="https://www.istockphoto.com/photo/technological-prosthetic-robot-arm-is-tested-by-two-professional-development-gm1193074238-339218175?searchscope=image%2Cfilm"
                 alt="Prosthetic Solution"
                 className="relative z-10 rounded-2xl shadow-xl w-full h-auto object-cover"
               />
