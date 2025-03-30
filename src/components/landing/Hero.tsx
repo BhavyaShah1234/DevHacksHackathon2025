@@ -50,7 +50,7 @@ const Hero = () => {
               <div className="absolute -top-6 -left-6 w-32 h-32 bg-prosthetic-200 rounded-full filter blur-2xl opacity-60"></div>
               <div className="absolute -bottom-8 -right-8 w-48 h-48 bg-prosthetic-300 rounded-full filter blur-3xl opacity-30"></div>
               <img
-                src="https://www.istockphoto.com/photo/technological-prosthetic-robot-arm-is-tested-by-two-professional-development-gm1193074238-339218175?searchscope=image%2Cfilm"
+                src="https://images-ext-1.discordapp.net/external/T84e9IrOotucf9nBMASjpv-bTpcawB77b9nj54ySPaU/https/imgs.search.brave.com/clXLN31mkGJ6cHabo5ZT9InMxJMxJZShHVIekPYWPtE/rs%3Afit%3A860%3A0%3A0%3A0/g%3Ace/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzgyLzcwLzQ0/LzM2MF9GXzI4Mjcw/NDQyNF81ZHBjWEN1/RGd6YU9semQ4bG1p/UHVsRDNGOVBaMUpt/dy5qcGc?format=webp&width=1268&height=634"
                 alt="Prosthetic Solution"
                 className="relative z-10 rounded-2xl shadow-xl w-full h-auto object-cover"
               />

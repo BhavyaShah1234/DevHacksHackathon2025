@@ -49,7 +49,7 @@ const About = () => {
               <div className="order-2 md:order-1 relative">
                 <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-prosthetic-300 rounded-full filter blur-2xl opacity-60"></div>
                 <img 
-                  src="https://images.unsplash.com/photo-1581093196277-9f6e3d5d2c74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" 
+                  src="https://unsplash.com/photos/a-robot-arm-industrial-miniature-figure-in-hand-of-robotics-engineer-working-on-laptop-in-laboratory-FgwUNOq8NEg" 
                   alt="Technology and innovation" 
                   className="relative z-10 rounded-xl shadow-lg w-full"
                 />
